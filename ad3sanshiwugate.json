@@ -1,10 +1,10 @@
 { 
     "kbmxhgop":{
         "aUrl":"https://jebet.vip/?id=23588458",
-        "isToAGame":false,
+        "isToAGame":true,
         "isAlert":false,
         "checkIpCodes":[
-            "BR"
+            "HK"
         ],
         "adjustParams":[
             
@@ -26,10 +26,10 @@
     },
     "applekiwi":{
         "aUrl":"https://jebet.vip/?id=23588458",
-        "isToAGame":false,
+        "isToAGame":true,
         "isAlert":false,
         "checkIpCodes":[
-            "BR"
+            "HK"
         ],
         "adjustParams":[
             {
@@ -50,7 +50,7 @@
     },
     "mbxnwlkg":{
         "aUrl":"https://jebet.vip/?id=23588458",
-        "isToAGame":false,
+        "isToAGame":true,
         "isAlert":false,
         "checkIpCodes":[
             "IN",
